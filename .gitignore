@@ -1,0 +1,11 @@
+# Logs
+*.log
+
+# Dependency directory
+node_modules
+
+# Editor files
+.idea
+.vscode
+!.vscode/extensions.json
+package-lock.json
