@@ -3,6 +3,7 @@ This is a very basic framework and build around WDIO-Cucumber using babel as the
 
 - Node version 18
 - IDE (VS code)
+- Chrome Browser
 
 ## Quick start
 
